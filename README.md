@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeineX
+- 👋 Hi, I’m Ayush Ramteke.
 - 👀 I’m interested in programming and development.
 - 🌱 I’m currently studying in IIT Bombay Computer Science Dept.
 - 💞️ I’m looking to collaborate on ...
